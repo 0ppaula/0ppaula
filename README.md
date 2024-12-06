@@ -1,6 +1,6 @@
 # Sobre mim 
 - 👋 Oi, meu nome é **@0ppaula**
-- 👀 Meu [email](paula.vergara.lima@escola.pr.gov.br)
+- 👀 Meu [email]()
 - 🌱Estou aprendendo a programar no Scratch
 
 
